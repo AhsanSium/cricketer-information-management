@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664355308 source:e:\programming\university project\2-1 project\ci_pf\cricketer_info\final project.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<process.h>
+	<string.h>
+	<conio.h>
+
